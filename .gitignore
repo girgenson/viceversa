@@ -12,3 +12,6 @@ test.py
 __pycache__/
 *.sqlite3
 *.bak
+venv
+*.idea
+*venv
